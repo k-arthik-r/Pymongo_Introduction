@@ -4,6 +4,7 @@ client = pymongo.MongoClient('localhost', 27017)
 db = client["student"]
 collection = db["CSE"]
 
+#sort() takes in two parameter one is fieldname and other is order.
 
 # it will arrange the names in ascending order
 query = collection.find().sort("name")
