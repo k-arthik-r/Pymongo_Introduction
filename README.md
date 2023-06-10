@@ -28,7 +28,6 @@ Or visit [Here](https://pypi.org/project/pymongo/) For Manual Download
     
 ## Requirements
 * Python 3.11
-* pip install pymongo==3.7.2 - MongoDB Python Driver
 * MongoDB 4.0.4 - Database Server
 * (Optional)MongoDB Compass 1.16.3 - To view database
 
@@ -111,10 +110,21 @@ An important note about collections (and databases) in MongoDB is that they are 
 
 ## Database
 
+![Screenshot (107)](https://github.com/k-arthik-r/Pymongo_Introduction/assets/111432615/2c5da9f3-8e37-4d25-8392-f0d85e3f155e)
 
 
+![Screenshot (108)](https://github.com/k-arthik-r/Pymongo_Introduction/assets/111432615/8b5f4a39-5049-4f83-8f1a-ee160aa1e209)
 
+------------------------
 
+## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
+----------------------------
+
+## Feedback
+If you have any feedback, please reach out to us at voidex.developer@gmail.com
 
 
 
