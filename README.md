@@ -93,11 +93,14 @@ collection = db['test-collection']
 An important note about collections (and databases) in MongoDB is that they are created lazily - none of the above commands have actually performed any operations on the MongoDB server. Collections and databases are created when the first document is inserted into them.
 
 ----------------------
+
 ## Getting start MongoDB Atlas
 
 MongoDB Atlas is a fully-managed cloud database that handles all the complexity of deploying, managing, and healing your deployments on the cloud service provider of your choice (AWS , Azure, and GCP). MongoDB Atlas is the best way to deploy, run, and scale MongoDB in the cloud.
 
 Access the file here to get started with MongoDB atlas [Here](connect.atlas.py)
+
+-------------------------
 
 ## Query Code
 
