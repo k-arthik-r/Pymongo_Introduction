@@ -4,7 +4,7 @@
     
  <div align='center'>
        <a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a> &nbsp;
-        <a><img src="https://img.shields.io/badge/Pymongo-3CB043?style=for-the-badge&logo=python&logoColor=ffdd54" /></a> &nbsp;
+       <a><img src="https://img.shields.io/badge/Pymongo-3CB043?style=for-the-badge&logo=python&logoColor=ffdd54" /></a> &nbsp;
        <a><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a> &nbsp;
 </div>
 
@@ -27,6 +27,7 @@ Or visit [Here](https://pypi.org/project/pymongo/) For Manual Download
  ------------------------
     
 ## Requirements
+
 * Python 3.11
 * MongoDB 4.0.4 - Database Server
 * (Optional)MongoDB Compass 1.16.3 - To view database
@@ -92,10 +93,16 @@ collection = db['test-collection']
 An important note about collections (and databases) in MongoDB is that they are created lazily - none of the above commands have actually performed any operations on the MongoDB server. Collections and databases are created when the first document is inserted into them.
 
 ----------------------
+## Getting start MongoDB Atlas
+
+MongoDB Atlas is a fully-managed cloud database that handles all the complexity of deploying, managing, and healing your deployments on the cloud service provider of your choice (AWS , Azure, and GCP). MongoDB Atlas is the best way to deploy, run, and scale MongoDB in the cloud.
+
+Access the file here to get started with MongoDB atlas [Here](connect.atlas.py)
 
 ## Query Code
 
-* [Connect](connect.py)
+* [Connect with Local](connect.local.py)
+* [Connect with Atlas](connect.atlas.py)
 * [Insert](insert.py)
 * [Select](find.py)
 * [Update](update.py)
