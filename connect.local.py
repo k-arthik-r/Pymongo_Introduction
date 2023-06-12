@@ -17,6 +17,7 @@ collection = db["CSE"]
 # Even after you create a database and collection the db will not be active and wont appear in the compass until a entry is made in that collection the dictionary element is created to insert that entry.
 
 dictionary = {
+    "_id":"4VV21CS073",
     'name':'chinmaya',
     'grade': 9.5
 }
