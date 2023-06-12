@@ -134,7 +134,7 @@ Access the file here to get started with MongoDB atlas [Here](connect.atlas.py)
 ----------------------------
 
 ## Feedback
-If you have any feedback, please reach out to us at voidex.developer@gmail.com 
+If you have any feedback, please reach out to us at voidex.developer@gmail.com
 
 
 
