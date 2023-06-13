@@ -10,7 +10,7 @@
 
 --------------------------
   
-A Repository created to describe the usage of pymongo a Python-MongoDB driver to connect, insert, select, update and delete Documents from MongoDB database.
+A Repository created to describe the usage of pymongo a Python-MongoDB driver to connect, insert, select, update and delete Documents with MongoDB database.
 
 --------------------------
 
@@ -94,7 +94,7 @@ An important note about collections (and databases) in MongoDB is that they are 
 
 ----------------------
 
-## Getting start MongoDB Atlas
+## Getting started MongoDB Atlas
 
 MongoDB Atlas is a fully-managed cloud database that handles all the complexity of deploying, managing, and healing your deployments on the cloud service provider of your choice (AWS , Azure, and GCP). MongoDB Atlas is the best way to deploy, run, and scale MongoDB in the cloud.
 
